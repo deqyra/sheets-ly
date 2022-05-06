@@ -1,3 +1,4 @@
+\version "2.22.2"
 \header {
     title = \markup "Clubbed to Death"
     composer = \markup "Rob Dougan"
