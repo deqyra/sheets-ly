@@ -22,8 +22,8 @@
             }
             {
                 b c d           g4 d8       |   c4 a8           fis4 g8     |
-                a4 g8           g4 fis8     |   g4.             a4
-                \mark \markup { \musicglyph "scripts.coda" }       g8       \bar "||" \break
+                a4 g8           g4 fis8     |   \mark \markup { \musicglyph "scripts.coda" }
+                                                g4.             a4   g8       \break
                
             }
         }
@@ -40,7 +40,7 @@
             {
                 fis4 a8         d4 fis8     |   e4 d8           cis4 e8     |
                 d2.                         |
-                ^\markup { D.S. al Coda }     c2.                         \bar "||" \break
+                ^\markup { D.S. al Coda }       c2.                         \bar "||" \break
             }
         }
 

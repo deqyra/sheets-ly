@@ -7,7 +7,7 @@ Lilypond is an open source music engraving language that has similarities with L
 Current contents of the repo:  
 | Name                                             | Status                     |
 |--------------------------------------------------|----------------------------|
-| [Rob Dougan - Clubbed to Death][1]               | Half-done                  |
+| [Rob Dougan - Clubbed to Death][1]               | Done but page layout sucks |
 | [Krusty Krab song from Spongebob Squarepants][2] | Done but page layout sucks |
 
 [1]: https://github.com/deqyra/sheets-ly/blob/master/Rob%20Dougan%20-%20Clubbed%20to%20Death/piano.pdf
